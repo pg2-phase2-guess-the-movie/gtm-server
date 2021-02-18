@@ -14,7 +14,12 @@ module.exports = (sequelize, DataTypes) => {
     }
   };
   Player.init({
-    name: DataTypes.STRING,
+    name: {
+      type: DataTypes.STRING,
+      validate:{
+        notEmpty: true
+      }
+    },
     score: DataTypes.INTEGER
   }, {
     sequelize,
