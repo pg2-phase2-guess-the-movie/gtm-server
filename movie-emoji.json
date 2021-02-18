@@ -1,0 +1,124 @@
+[
+    {
+        "id" : 1,
+        "movie_name": "Harry Potter",
+        "emoji" : "👦⚡🧹🦉",
+        "Hint" : "Expecto Patronus!!" 
+    },
+    {
+        "id" : 2,
+        "movie_name": "Mr. Bean",
+        "emoji" : "🚙🧸",
+        "Hint" : "Rowan Atkinson" 
+    },
+    {
+        "id" : 3,
+        "movie_name": "CastAway",
+        "emoji" : " 🏝️🏐🧔",
+        "Hint" : "Wilson NOOOO!" 
+    },
+    {
+        "id" : 4,
+        "movie_name": "Catch me if you can",
+        "emoji" : "🏃‍♂️💨🚓",
+        "Hint" : "Check, Pilot, FBI, Runaway!!" 
+    },
+    {
+        "id" : 5,
+        "movie_name": "Snake on the plane",
+        "emoji" : "🐍🛩️",
+        "Hint" : "Flying Snake, Realy??!!" 
+    },
+    {
+        "id" : 6,
+        "movie_name": "Shawshank redemption",
+        "emoji" : "⛏️🕳️",
+        "Hint" : "a successful banker,sentenced to life imprisonment at the Shawshank prison" 
+    },
+    {
+        "id" : 7,
+        "movie_name": "Lalaland",
+        "emoji" : "🕺💃",
+        "Hint" : "Ryan Gosling and Emma Stone Dancing in the Stars !!" 
+    },
+    {
+        "id" : 8,
+        "movie_name": "Wolf of wall street ",
+        "emoji" : "🐺🏛️💰",
+        "Hint" : "Sell Me This Pen" 
+    },
+    {
+        "id" : 9,
+        "movie_name": "Silence of lambs",
+        "emoji" : " 🔕🐑🐑🐑",
+        "Hint" : "Would you like brain for dinner?" 
+    },
+    {
+        "id" : 10,
+        "movie_name": "Brokeback Mountain",
+        "emoji" : " 👦🏻👦🏻🏕️🏔️",
+        "Hint" : "two guys......" 
+    },
+    {
+        "id" : 11,
+        "movie_name": "Harry Potter",
+        "emoji" : "👦⚡🧹🦉",
+        "Hint" : "Expecto Patronus!!" 
+    },
+    {
+        "id" : 12,
+        "movie_name": "Finding nemo ",
+        "emoji" : "🔎🐠",
+        "Hint" : "Hi how are you, my name is Dory" 
+    },
+    {
+        "id" : 13,
+        "movie_name": "Blood Diamond",
+        "emoji" : "💉💎",
+        "Hint" : "a Civil war rages through 1990s in Sierra Leone" 
+    },
+    {
+        "id" : 14,
+        "movie_name": "Fight Club",
+        "emoji" : "🥊♣️",
+        "Hint" : "The first rule of project mayhem is you do not ask questions" 
+    },
+    {
+        "id" : 15,
+        "movie_name": "American Beauty",
+        "emoji" : "🇺🇲🛀🏼🌹🌹🌹",
+        "Hint" : "And what do you see?" 
+    },
+    {
+        "id" : 16,
+        "movie_name": "Harry Potter",
+        "emoji" : "👦⚡🧹🦉",
+        "Hint" : "Expecto Patronus!!" 
+    },
+    {
+        "id" : 17,
+        "movie_name": "Detective Conan",
+        "emoji" : "⌚💤🕵️👦🏻",
+        "Hint" : "Sleeping Detective" 
+    },
+    {
+        "id" : 18,
+        "movie_name": "Spongebob squarepants ",
+        "emoji" : "🍍🐌🍔",
+        "Hint" : "I'm ready, i'm Ready!!!" 
+    },
+
+    {
+        "id" : 19,
+        "movie_name": "Charlie and the chocolate factory ",
+        "emoji" : "👦🏻🍫🏭",
+        "Hint" : "Oompa Loompa" 
+    },
+    {
+        "id" : 20,
+        "movie_name": "Ratatouille",
+        "emoji" : "🐀👨‍🍳🍝",
+        "Hint" : "a mouse in the kitchen" 
+    }
+
+]
