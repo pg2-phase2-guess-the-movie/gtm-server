@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "kiman12345",
+    "password": "gundamrx0079",
     "database": "pg2-phase2-guess-the-movie",
     "host": "127.0.0.1",
     "dialect": "postgres"
