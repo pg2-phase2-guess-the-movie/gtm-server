@@ -32,7 +32,7 @@ io.on('connection', (socket) =>{
     socket.on('logout', (data) => {
         let updatedUsers = []
         users.forEach(user => {
-            if (user !== data.name) {
+            if (user.name !== data.name) {
                 updatedUsers.push(user)
             }
         });
