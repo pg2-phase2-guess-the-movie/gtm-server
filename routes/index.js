@@ -3,7 +3,6 @@ const authenticate = require("../middlewares/authenticate")
 const PlayerController = require("../controllers/PlayerController")
 
 router.post("/login", PlayerController.newPlayer)
-router.use(authenticate)
 router.get("/quiz", PlayerController.getQuiz)
 
 module.exports = router
